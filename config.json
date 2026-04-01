@@ -1,0 +1,15 @@
+{
+  "address": "127.0.0.1",
+  "duration_time_seconds": 1,
+  "start_port": 1,
+  "end_port": 100,
+  "threads": 50,
+  "target_ping_port": 8080,
+  "protocol": "tcp",
+  "ticker_time_milliseconds": 200,
+  "deep_scanning": true,
+  "main_window_width": 500,
+  "main_window_height": 400,
+  "settings_window_width": 400,
+  "settings_window_height": 350
+}
